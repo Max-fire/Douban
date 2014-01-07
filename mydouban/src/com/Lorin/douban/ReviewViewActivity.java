@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
-import com.chenyc.douban.entity.Review;
+import com.chenyc.douban.entity.Review;  
 import com.chenyc.douban.util.NetUtil;
 
 /**

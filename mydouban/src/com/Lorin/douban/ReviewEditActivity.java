@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.View.OnClickListener;
-import android.widget.Button;
+import android.widget.Button;  
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.RatingBar;

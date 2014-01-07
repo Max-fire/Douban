@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import com.chenyc.douban.entity.Subject;
 import com.chenyc.douban.util.NetUtil;
@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
-import android.widget.ListView;
+import android.widget.ListView; 
 import android.widget.TextView;
 
 public class FavActivity extends BaseListActivity {

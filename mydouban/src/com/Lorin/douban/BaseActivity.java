@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
@@ -11,7 +11,7 @@ import org.apache.http.cookie.Cookie;
 import org.apache.http.impl.client.BasicCookieStore;
 
 import android.app.Activity;
-import android.app.AlertDialog;
+import android.app.AlertDialog; 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;

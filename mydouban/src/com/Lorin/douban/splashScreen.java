@@ -15,7 +15,7 @@ import android.widget.TextView;
 
 import com.chenyc.douban.util.NetUtil;
 
-public class splashScreen extends Activity {
+public class  splashScreen extends Activity {
 	/** Called when the activity is first created. */
 
 	@Override

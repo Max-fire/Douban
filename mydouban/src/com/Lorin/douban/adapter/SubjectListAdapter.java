@@ -1,4 +1,4 @@
-package com.chenyc.douban.adapter;
+﻿package com.chenyc.douban.adapter;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.RatingBar;
-import android.widget.TextView;
+import android.widget.TextView;  
 
 import com.chenyc.douban.R;
 import com.chenyc.douban.entity.Subject;

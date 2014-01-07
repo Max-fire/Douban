@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿ package com.chenyc.douban;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
